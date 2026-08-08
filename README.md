@@ -45,11 +45,11 @@ The following tools and software were used during the activity:
 |---|---|
 | Operating System | Windows |
 | PHP | 8.2.12 |
-| Laravel | [ENTER YOUR LARAVEL VERSION] |
+| Laravel | [5.31.1] |
 | Composer | 2.10.2 |
-| Git | [ENTER YOUR GIT VERSION] |
-| MySQL | [ENTER YOUR MYSQL VERSION] |
-| Visual Studio Code | [ENTER YOUR VS CODE VERSION] |
+| Git | [2.51.0.windows.2] |
+| MySQL | [MariaDB 10.4.32] |
+| Visual Studio Code | [1.132.0] |
 
 ### Commands Used to Verify Versions
 
